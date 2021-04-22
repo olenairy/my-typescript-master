@@ -4,8 +4,10 @@
 
 ### Start from command:
 
+```
 node --version // if you use Code app and NVM - it's different!
 nvm install --lts // for last version
+```
 
 ### or:
 
@@ -21,6 +23,20 @@ Restart VS code for it to pick up the changes.
 
 <kbd>Ctrl</kbd> + <kbd>Cmnd</kbd> + <kbd>P</kbd>
 
+```
+>install path
+```
+
+### Add Extensions:
+
+<ul>
+<li>Bracket Pair Colorizer</li>
+<li>ES7 React/Redux/GraphQL/React-Native snippets</li>
+<li>Night Owl</li>
+<li>Night Owl</li>
+<li>Prettier - Code formatter</li>
+</ul>
+
 ## Collection of Typescript Tutorials
 
 ### Variables
@@ -29,8 +45,10 @@ Folder name type01
 
 #### Precreated:
 
+```
 npm install -g typescript ts-node
 tsc --help
+```
 
 #### Start from command:
 
