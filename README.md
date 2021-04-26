@@ -93,7 +93,7 @@ ts-node index.ts // generate index.js and run app
 
 ### Useful:
 
-(npmjs.com)[npmjs.com]
+(npmjs.com)[http://npmjs.com]
 Search: <b>faker</b> package
 
 #### Precreated:
