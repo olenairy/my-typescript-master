@@ -51,7 +51,7 @@ Restart VS code for it to pick up the changes.
 
 ### Useful:
 
-(Fake JSON API)[http://jsonplaceholder.typicode.com]
+[Fake JSON API](http://jsonplaceholder.typicode.com)
 
 ### Variables
 
@@ -93,7 +93,7 @@ ts-node index.ts // generate index.js and run app
 
 ### Useful:
 
-(npmjs.com)[http://npmjs.com]
+[npmjs.com](http://npmjs.com)
 Search: <b>faker</b> package
 
 #### Precreated:
